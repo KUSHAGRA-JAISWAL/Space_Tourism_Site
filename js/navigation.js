@@ -1,3 +1,12 @@
+/*
+ * @file navigation.js
+ * @author KUSHAGRA JAISWAL 
+ * @date 2023-01-010
+ * @copyright Copyright (c) 2022
+ */
+
+ /* The navigation working file of the project. */
+
 "use strict";
 console.log("navigation.js loaded");
 

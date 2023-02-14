@@ -1,3 +1,11 @@
+/*
+ * @file tabs.js
+ * @author KUSHAGRA JAISWAL 
+ * @date 2023-01-011
+ * @copyright Copyright (c) 2022
+ */
+
+ /* The tabs working file of the project. */
 "use strict";
 console.log("tabs.js loaded");
 
