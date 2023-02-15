@@ -1,7 +1,7 @@
  <h1><b><i>Space Tourism Site </i></b><img src="https://i.imgur.com/qEt2Oc7.png" height=50px></h1> 
  <br>
-<!-- <img src="https://i.imgur.com/qhBLZ7L.gif" >  -->
-<a href="https://imgur.com/qhBLZ7L"><img src="https://i.imgur.com/qhBLZ7L.gif" title="source: imgur.com" /></a>git s
+<img src="https://i.imgur.com/0L0rOba.gif" > 
+
 <!-- <img src="https://i.imgur.com/wZ2fx8S.gif" height=4px width=100%> -->
 <br>
 <b>This repository is based on a Space Tourism Site which I Develop while learning some advancec concepts of CSS and little bit of javascript.</b>
